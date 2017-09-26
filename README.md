@@ -1,5 +1,5 @@
 # ZonedOutRP-alpha
-it
+
 
 ATTENTION: This is just uploaded for a friend, it will NOT work without instructions.
 
