@@ -1,7 +1,7 @@
 # ZonedOutRP-alpha
-Zoned Out RP is a FiveM RP server, still in alpha stage but already amazing!
+it
 
+ATTENTION: This is just uploaded for a friend, it will NOT work without instructions.
 
-ATTENTION: Extract the "resources.rar" right into the "cfx-server-data-master" folder. So once your done, the "resources" folder should be next to the "mtsaves" folder.
-
-Run the server with "RunServer.bat"
+If you are looking to make your own FiveM Server, I highly recommend searching it on youtube. Here are the basic instrctions though:
+https://wiki.fivem.net/wiki/Running_FXServer
