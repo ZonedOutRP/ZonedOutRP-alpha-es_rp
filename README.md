@@ -1,4 +1,4 @@
-# ZonedOutRP-alpha
+# ZonedOutRP-alpha-es_rp
 
 
 ATTENTION: This is just uploaded for a friend, it will NOT work without instructions.
